@@ -17,6 +17,7 @@ brew 'nvm'
 brew 'pyenv'
 brew 'rbenv'
 brew 'cfn-lint'
+brew 'bitwarden-cli'
 
 # Apps
 cask 'jetbrains-toolbox'
